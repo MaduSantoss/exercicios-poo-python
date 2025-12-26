@@ -1,7 +1,3 @@
-Aqui está uma versão **mais profissional, organizada e pronta para portfólio**, com pequenos ajustes de clareza, padronização e fechamento (havia blocos abertos e faltavam passos):
-
----
-
 # 🐍 Exercícios de Programação Orientada a Objetos em Python
 
 Bem-vindo(a) ao repositório de **Exercícios de Programação Orientada a Objetos (POO)** em **Python**!
@@ -52,7 +48,7 @@ exercicios_poo_python/
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/MaduSantoss/exercicios-po-python.git
+git clone https://github.com/MaduSantoss/exercicios-poo-python.git
 ```
 
 2. Acesse a pasta do projeto:
